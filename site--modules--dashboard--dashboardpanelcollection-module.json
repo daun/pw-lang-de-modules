@@ -1,0 +1,33 @@
+{
+    "file": "site\/modules\/Dashboard\/DashboardPanelCollection.module",
+    "textdomain": "site--modules--dashboard--dashboardpanelcollection-module",
+    "translations": {
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Aktionen"
+        },
+        "77fb03bfef1515cd45b226b4b430f4a9": {
+            "text": "Zeige %d von %d"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titel"
+        },
+        "d8d7ad6abfd08c27baa8bedb78c72ddb": {
+            "text": "Alle ansehen"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Ansehen"
+        },
+        "1418b6d11b6a176d0d74d9e255c2c9ed": {
+            "text": "%d Seite"
+        },
+        "7df5b6d0f591e7675098c3d713737b20": {
+            "text": "%d Seiten"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Neu hinzuf\u00fcgen"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Bearbeiten"
+        }
+    }
+}

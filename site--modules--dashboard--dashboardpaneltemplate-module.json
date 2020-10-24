@@ -1,0 +1,9 @@
+{
+    "file": "site\/modules\/Dashboard\/DashboardPanelTemplate.module",
+    "textdomain": "site--modules--dashboard--dashboardpaneltemplate-module",
+    "translations": {
+        "e6ff97b715888e5bc3b1fa7c17ec1f23": {
+            "text": "Template-Datei nicht gefunden: %s"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "file": "site\/modules\/Dashboard\/Dashboard.module",
+    "textdomain": "site--modules--dashboard--dashboard-module",
+    "translations": {
+        "b6c199759ae4088063e492fa5b7ebec2": {
+            "text": "Willkommen, %s"
+        },
+        "83218ac34c1834c26781fe4bde918ee4": {
+            "text": "Willkommen"
+        },
+        "5652c5fcfee8508eceabb7cdb0b4ff66": {
+            "text": "Dashboard-Panel nicht gefunden: %s"
+        },
+        "b5e3f5720708a9c33cffb8293bf5fbe1": {
+            "text": "Ihr Dashboard ist leer."
+        },
+        "78931d239bdcee73e32f1a99c6dc062a": {
+            "text": "Wie man Panels hinzuf\u00fcgt und konfiguriert, erfahren Sie in der [Dokumentation](%s)."
+        },
+        "be11c74c1dd7f307bb80183a90dc2067": {
+            "text": "Jetzt loslegen"
+        }
+    }
+}
