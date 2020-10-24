@@ -1,0 +1,123 @@
+{
+    "file": "site\/modules\/ProcessPageListerPro\/ListerProActions.php",
+    "textdomain": "site--modules--processpagelisterpro--listerproactions-php",
+    "translations": {
+        "45bcd132a03571f3e8aed51d9b83cb93": {
+            "text": "Alle Filter wurden zur\u00fcckgesetzt."
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Aktionen"
+        },
+        "6934a509fb9f481d4105654f283312d3": {
+            "text": "Aktionen k\u00f6nnen \u00c4nderungen an einer beliebigen Anzahl von Seiten gleichzeitig vornehmen. Daher sollten Sie immer sicherstellen, dass ein vollst\u00e4ndiges Backup Ihrer Seite existiert, bevor Sie Aktionen ausf\u00fchren."
+        },
+        "84eb3057639e71f0b224a1da1d29687e": {
+            "text": "Diese Aktionen gelten f\u00fcr alle Seiten, die Ihren Filtern entsprechen (einschlie\u00dflich aller Seiten auf Folgeseiten dieser Liste)."
+        },
+        "d27545cc9b7c1d4983f1957a9a6e6be5": {
+            "text": "Auf welche Seiten sollen die Aktionen angewendet werden?"
+        },
+        "5e9b3f2900098d7c83b89adb9a0eaec3": {
+            "text": "Alle Seiten, die Ihren Filtern entsprechen"
+        },
+        "0973b9d493d1017c8334c1c14a9beaa5": {
+            "text": "Ausgew\u00e4hlte Seite(n)"
+        },
+        "5eb869fc7dad176f5631edbee651bcf2": {
+            "text": "Wann soll(en) die Aktion(en) laufen?"
+        },
+        "1e1cc9bdeb2f29f5480106aec7e9bc48": {
+            "text": "Jetzt"
+        },
+        "61057a0c84605444201929bdd72014f0": {
+            "text": "Sp\u00e4ter"
+        },
+        "ca5266b854df56bc25347da859835aad": {
+            "text": "Benachrichtigen, wenn die Aktion(en) abgeschlossen ist (sind)?"
+        },
+        "9cab3268c61e1bc177ab8d7e0060356f": {
+            "text": "Nicht benachrichtigen"
+        },
+        "40cd014b7b6251e3a22e6a45a73a64e1": {
+            "text": "Ausf\u00fchren"
+        },
+        "178fdde0003a2dee51ff20897fc69122": {
+            "text": "Ergebnisse der Aktion"
+        },
+        "cca5795cf092b42054fdfddf7443b2e2": {
+            "text": "Welche Aktionen m\u00f6chten Sie ausf\u00fchren?"
+        },
+        "e3aa01cdc74bac68d6566ba2775437b1": {
+            "text": "F\u00fcr jede Aktion, die Sie ausw\u00e4hlen, k\u00f6nnen zus\u00e4tzliche Optionen in den untenstehenden Feldern erscheinen."
+        },
+        "12e3234ac79a08c5814f2bcda50326a9": {
+            "text": "Diesem Lister sind keine Aktionen zugeordnet oder Sie haben keinen Zugriff darauf."
+        },
+        "14907994ab34fa9646d381ad0f102ec4": {
+            "text": "Sie k\u00f6nnen Aktionen hinzuf\u00fcgen, indem Sie den Lister konfigurieren."
+        },
+        "789425f708b790b3ffc89b28a669f9b9": {
+            "text": "Aktion wird ausgef\u00fchrt"
+        },
+        "700f9df0b788870f03e6cc3ba669c857": {
+            "text": "Von Lister in Warteschlange gestellt"
+        },
+        "f5a13c787c7d56b1d30f77d32d21ee43": {
+            "text": "Aktion in Warteschlange"
+        },
+        "207ab96f9895f87f78f6c6162f323a4f": {
+            "text": "%d Seiten"
+        },
+        "56445f54a7004e964a549fa9f6117594": {
+            "text": "Angewendet auf ausgew\u00e4hlte Seiten"
+        },
+        "0a4a42f26cf11c3158d298a1a49020cc": {
+            "text": "Angewendet auf alle Seiten, die Ihren Filtern entsprechen"
+        },
+        "a5c9bcb8d119086abc0d8757bacf2854": {
+            "text": "Erstelle Seiten-Stapel"
+        },
+        "000a270ec9e68f4e8fe6d60aa2b1e95b": {
+            "text": "Verarbeite Seiten-Stapel..."
+        },
+        "e6334303985030c38488292ff5e7b470": {
+            "text": "Nicht editierbare Seite \u00fcbersprungen: %s"
+        },
+        "51ffe9dd1b1e143c1b9f1144d040e454": {
+            "text": "Stapel"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "Seite"
+        },
+        "4b15cd484fa164b1c9f681089a876d8d": {
+            "text": "Stapel verarbeitet"
+        },
+        "fbb44b4487415b134bce9c790a27fe5e": {
+            "text": "Gesamt"
+        },
+        "701d8cb23924716632db4e617a2519b4": {
+            "text": "%d Seiten wurden ge\u00e4ndert und gespeichert."
+        },
+        "da5649ac7498fccddeba3af60c6df403": {
+            "text": "%d Seiten wurden in die Warteschlange gestellt."
+        },
+        "af3e8fccffe9922a090386f8ff2dbbe1": {
+            "text": "%d Seiten wurden nicht ver\u00e4ndert."
+        },
+        "b6ee7297cc356a683e1c775ba91a6656": {
+            "text": "%d Seiten wurden aufgrund fehlender Zugriffsrechte \u00fcbersprungen."
+        },
+        "631b01aea97f8a037f4634219ef0d8ad": {
+            "text": "FERTIG!"
+        },
+        "cb7d082bc3adad3ac699d09444b37f2b": {
+            "text": "Lister konfigurieren"
+        },
+        "4593f380fadb80aed84424702f6746ba": {
+            "text": "Filter zur\u00fccksetzen"
+        },
+        "684c40f2b94de4d5a9d9b55e4062c3f5": {
+            "text": "Ergebnisse aktualisieren"
+        }
+    }
+}

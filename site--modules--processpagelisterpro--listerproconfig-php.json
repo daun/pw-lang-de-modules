@@ -1,0 +1,27 @@
+{
+    "file": "site\/modules\/ProcessPageListerPro\/ListerProConfig.php",
+    "textdomain": "site--modules--processpagelisterpro--listerproconfig-php",
+    "translations": {
+        "6ecdde2ae513a5896e134284685c0e15": {
+            "text": "Neuen Lister hinzuf\u00fcgen"
+        },
+        "64ce89862023aa6e454fe40cad241d28": {
+            "text": "Diesen Lister konfigurieren"
+        },
+        "860515850b6c6beae4343c42ecf3060f": {
+            "text": "Filter hinzuf\u00fcgen"
+        },
+        "cf3fb1ff52ea1eed3347ac5401ee7f0c": {
+            "text": "Aufsteigend"
+        },
+        "e3cf5ac19407b1a62c6fccaff675a53b": {
+            "text": "Absteigend"
+        },
+        "ef2eef77980dfb726eee7566523a9f55": {
+            "text": "Feld-Namen"
+        },
+        "b9f5b9f041084aa285dac87dd3dc1234": {
+            "text": "Feld-Label"
+        }
+    }
+}

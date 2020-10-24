@@ -1,0 +1,66 @@
+{
+    "file": "site\/modules\/ProcessPageListerPro\/ProcessPageListerPro.module",
+    "textdomain": "site--modules--processpagelisterpro--processpagelisterpro-module",
+    "translations": {
+        "9ece991394ba57f1d9a976b80b255fb7": {
+            "text": "Konfigurieren"
+        },
+        "97aaf6a4efa90350c9691d39926f681b": {
+            "text": "Leer"
+        },
+        "d3d2e617335f08df83599665eef8a418": {
+            "text": "Schlie\u00dfen"
+        },
+        "2959ce8aed67d6b6e6f5cefd601f1091": {
+            "text": "In neuem Fenster \u00f6ffnen"
+        },
+        "e940c0fb33ade9b5bce36cafddea120b": {
+            "text": "Es gibt ungespeicherte \u00c4nderungen. Wenn Sie fortfahren, werden Sie diese \u00c4nderungen verlieren:"
+        },
+        "4ba80614f8ea4fbfce74f941f641c332": {
+            "text": "\u00c4nderungen speichern"
+        },
+        "786e2cc3ea3111434a3c0e0bf246c4ab": {
+            "text": "Lister konfigurieren"
+        },
+        "4833712af97af2a5468d726f2af4e089": {
+            "text": "Lister angelegt"
+        },
+        "831bb528501c42a590305e56b8a78ad4": {
+            "text": "Lister dupliziert: %1$s => %2$s"
+        },
+        "78fe39a5adcaad9681dfbc4c31e26c5a": {
+            "text": "Seite %1$s scheint kein(e) %2$s zu sein"
+        },
+        "4a7b32f1ff3a32ffa65a62cd7ad809bb": {
+            "text": "Lister hinzuf\u00fcgen"
+        },
+        "f952ac6488c3e017829783cf71f610c4": {
+            "text": "Lister duplizieren"
+        },
+        "29d1af975e56851d938870f23550a38c": {
+            "text": "Ihre Lister"
+        },
+        "7bfd8e7e6058e308300e55c2f3d85723": {
+            "text": "Lister-Titel"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Erstellt"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Aktions"
+        },
+        "e2d5a00791bce9a01f99bc6fd613a39d": {
+            "text": "Konfigurieren"
+        },
+        "aecbf2c278ed6aa0c151f44071af252a": {
+            "text": "K.A."
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Elternseite"
+        },
+        "b9c8c5b26b7187d7c3355b9f96dde50a": {
+            "text": "Lister gel\u00f6scht: %s"
+        }
+    }
+}
