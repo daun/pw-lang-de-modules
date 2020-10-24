@@ -1,0 +1,30 @@
+{
+    "file": "site\/modules\/FieldtypeTable\/InputfieldTable.module",
+    "textdomain": "site--modules--fieldtypetable--inputfieldtable-module",
+    "translations": {
+        "c22d5d75c358917e3b98c3f20f063301": {
+            "text": "Auf alle anwenden?"
+        },
+        "9ba1f76b7ef74991cdcd45e8f629d6f1": {
+            "text": "Sind Sie sicher? Bereits vorgenommene \u00c4nderungen an den aktuellen Zeilen werden verworfen!"
+        },
+        "4cfa6c981549e990fe2344e4c805405e": {
+            "text": "Suchen"
+        },
+        "5ece607071fe59ddc4c88dc6abfe2310": {
+            "text": "Keine Ergebnisse"
+        },
+        "03e0c5bbd5488f1e5ec282529dac9635": {
+            "text": "Zeile hinzuf\u00fcgen"
+        },
+        "531168d497aba751a154761909e997bc": {
+            "text": "Markieren Sie dieses K\u00e4stchen, um ALLE Zeilen auf ALLEN Seiten zu l\u00f6schen."
+        },
+        "fff212615424ec54962e2e6aa94ffb9b": {
+            "text": "Wenn nicht markiert, werden nur die Zeilen der aktuellen Seite gel\u00f6scht."
+        },
+        "13b108c5f898b3f58465adf8e253440c": {
+            "text": "Alle %d Zeilen f\u00fcr das Feld \"%s\" gel\u00f6scht"
+        }
+    }
+}
