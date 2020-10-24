@@ -15,6 +15,6 @@ See the [instructions of the main language pack](https://github.com/jmartsch/pw-
 
 You have discovered a spelling mistake? You have a suggestion for an alternative word? Or a translation makes no sense at all?
 
-Great, then follow the instructions in the [processwire-language-pack-helper](https://github.com/jmartsch/processwire-language-pack-helper) repo.
+## Contribute
 
-It comes with a full ProcessWire installation and allows you to easily update the translations.
+If you're missing a module, found a mistake or have any other type of suggestion, please create a pull request after following the instructions in the [processwire-language-pack-helper](https://github.com/jmartsch/processwire-language-pack-helper) repo. It comes with a full ProcessWire installation and allows you to easily update the translations.
