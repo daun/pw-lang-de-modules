@@ -11,9 +11,19 @@ The repository will (try to) be up to date with the most recent **stable** versi
 
 See the [instructions of the main language pack](https://github.com/jmartsch/pw-lang-de) for installation details.
 
-## Contribute
+## Translated modules
 
-You have discovered a spelling mistake? You have a suggestion for an alternative word? Or a translation makes no sense at all?
+- Dashboard
+- Jumplinks
+- PageListerPro
+- PageLister Actions
+  - Delete
+  - Email
+  - Set field
+  - Set status
+- ProcessWire Upgrade
+- ProFields
+  - Table
 
 ## Contribute
 
