@@ -1,0 +1,27 @@
+{
+    "file": "site\/modules\/PageActionDelete\/PageActionDelete.module",
+    "textdomain": "site--modules--pageactiondelete--pageactiondelete-module",
+    "translations": {
+        "a113bb044184a62aad6591f3b2b12c6a": {
+            "text": "In Papierkorb verschieben"
+        },
+        "8fb41b3911b7f22a4e1d2dbfd77bc403": {
+            "text": "Dauerhaft l\u00f6schen"
+        },
+        "139fdcd267af64851ae9106aec9c0eaa": {
+            "text": "Dauerhaft l\u00f6schen (inklusive Unterseiten)"
+        },
+        "68eec88a0bc4a35d5cc461af850037ef": {
+            "text": "Nicht gel\u00f6scht, weil es Unterseiten hat."
+        },
+        "4c9962f2fda124eb4cefb45bcd2dce95": {
+            "text": "Art der L\u00f6schung"
+        },
+        "1a2304de76040382ee344249ad4865e5": {
+            "text": "Page Action: Seiten verwerfen\/l\u00f6schen"
+        },
+        "87a60d8e23940ad6449660a8b5260dfd": {
+            "text": "Aktion, die eine Seite im Papierkorb ablegt oder l\u00f6scht."
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "file": "site\/modules\/PageActionSetField\/PageActionSetField.module",
+    "textdomain": "site--modules--pageactionsetfield--pageactionsetfield-module",
+    "translations": {
+        "5cdec4c5a2310ffe8356073e8f77afa9": {
+            "text": "Feld-Wert \u00e4ndern"
+        },
+        "148c529307715b0b0166d09b003c985e": {
+            "text": "Achtung: Diese Aktion hat das Potenzial, bestehende Daten unbrauchbar zu machen. Sie sollten sie vorsichtshalber an unwichtigen Seiten ausprobieren, bevor Sie sie auf wichtige Inhalte anwenden. Empfehlenswert ist, hier nur Text- oder Zahlenfeldern zu ver\u00e4ndern."
+        },
+        "0361045e52e87d7241e99b847a958103": {
+            "text": "Sie k\u00f6nnen Tags verwenden, um den Wert eines beliebigen Feldes einzuf\u00fcgen, z.B. {name_des_feldes}"
+        },
+        "6f16a5f8ff5d75ab84c018adacdfcbb7": {
+            "text": "Feld"
+        },
+        "689202409e48743b914713f96d93947c": {
+            "text": "Neuer Wert"
+        }
+    }
+}
