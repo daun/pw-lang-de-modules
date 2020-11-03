@@ -1,0 +1,15 @@
+{
+    "file": "site\/modules\/FieldtypeMultiplier\/InputfieldMultiplier.module",
+    "textdomain": "site--modules--fieldtypemultiplier--inputfieldmultiplier-module",
+    "translations": {
+        "ec211f7c20af43e742bf2570c3cb84f9": {
+            "text": "Neu hinzuf\u00fcgen"
+        },
+        "aca16002d1688190ddd6c33c631e8f0c": {
+            "text": "%d Duplikat entfernt"
+        },
+        "1f56183f460ff5904ff853b38992f917": {
+            "text": "%d Duplikate entfernt"
+        }
+    }
+}
