@@ -1,0 +1,63 @@
+{
+    "file": "site\/modules\/FieldtypeMapMarker\/InputfieldMapMarker.module",
+    "textdomain": "site--modules--fieldtypemapmarker--inputfieldmapmarker-module",
+    "translations": {
+        "dd7bf230fde8d4836917806aff6a6b27": {
+            "text": "Adresse"
+        },
+        "3b0eb7469ba9c95f3a05c4cef1f6aac4": {
+            "text": "Breite"
+        },
+        "9b4dabc50f0b8ccba1c8981831abdad8": {
+            "text": "L\u00e4nge"
+        },
+        "b333c623973eb4e9a60f40b2837a756e": {
+            "text": "Geokodieren?"
+        },
+        "c8677ddf77587fd180ab240e3b620ee6": {
+            "text": "Bitte geben Sie einen Google Maps API-Schl\u00fcssel in den Modul-Einstellungen ein"
+        },
+        "3f84f2b44d5dfbb94a4ab73cafd77fdd": {
+            "text": "Voreingestellte Adresse"
+        },
+        "80b830cf2f8e4d13500b0516083f29d8": {
+            "text": "Diese Adresse wird in Koordinaten umgewandelt und zum Zentrum der Karte."
+        },
+        "df302916b5705665e09390b09baf54e2": {
+            "text": "Wenn Sie die voreingestellte Adresse \u00e4ndern, bitte lassen Sie die Felder f\u00fcr Breite und L\u00e4ngen leer, um die Koordinaten neu auszurechnen."
+        },
+        "88e471a8f43ac47ccbd14da0f8378a91": {
+            "text": "Die Koordinaten Ihrer voreingestellten Adresse wurden bestimmt. Bitte speichern Sie erneut, um die Werte f\u00fcr L\u00e4nge und Breite zu speichern."
+        },
+        "d7189c434a4672bc4be1b077b527d40d": {
+            "text": "Voreingestellte Breite"
+        },
+        "7efdb53f0b5ed6031c52f4e72f52348a": {
+            "text": "Voreingestellte L\u00e4nge"
+        },
+        "f71c91b7da2496c2a02a5f18d0e985a6": {
+            "text": "Voreingestellter Karten-Modus"
+        },
+        "fb1b6e23a3767d2a31ef7899e6dd3f1e": {
+            "text": "Hybrid"
+        },
+        "40be43aca96bb198df1d735293dc50b9": {
+            "text": "Karte"
+        },
+        "c2b5e73361a4bf9d26a73413d0abee5e": {
+            "text": "Satellit"
+        },
+        "4001defc085d5daf907c1a95fa0c38bd": {
+            "text": "Karten-H\u00f6he (in Pixeln)"
+        },
+        "30c4513b55190a2875d6180b79798d20": {
+            "text": "Voreingestellte Zoomstufe"
+        },
+        "c67053bb43cb1d18d7d2076e5bd79268": {
+            "text": "Geben Sie einen Wert zwischen 1 und 23 ein. Die h\u00f6chste Zoomstufe liegt typischerweise zwischen 19 und 23 \u2013 je nachdem, wie viele Daten Google f\u00fcr den angeforderten Standort hat."
+        },
+        "4000a84d8cfcaa12226370c3ede2941b": {
+            "text": "Einzelne Werte aus diesem Feld k\u00f6nnen Sie wie folgt in Template-Dateien ansteuern:"
+        }
+    }
+}
