@@ -1,0 +1,42 @@
+{
+    "file": "site\/modules\/MarkupSitemap\/src\/Concerns\/ConfiguresTabs.php",
+    "textdomain": "site--modules--markupsitemap--src--concerns--configurestabs-php",
+    "translations": {
+        "996175057eb5ac180dcb6436c62f8d31": {
+            "text": "Priorit\u00e4t dieser Seite"
+        },
+        "5af5b8cf93c1df3043065d0a583493b6": {
+            "text": "Legen Sie die Priorit\u00e4t dieser Seite auf einer Skala von 0.0 bis 1.0 fest."
+        },
+        "86ecaa290b31052ee204fb79ead600c8": {
+            "text": "Die Angabe einer Priorit\u00e4t ist optional und wird nur ber\u00fccksichtigt, wenn hier ein Wert eingetragen ist."
+        },
+        "8544d62cf04cc5eee1b206287667eefa": {
+            "text": "Bilder nicht ber\u00fccksichtigen"
+        },
+        "36e3f7160670722b66857f654cf99db0": {
+            "text": "Bilder dieser Seite nicht zur Sitemap hinzuf\u00fcgen"
+        },
+        "117d82929a4c5230d7dfc66acbd6fd7b": {
+            "text": "Standardm\u00e4\u00dfig werden alle Bild-Felder dieser Seite in die Sitemap aufgenommen. Kreuzen Sie das K\u00e4stchen unten an, um das zu verhindern."
+        },
+        "ad8e9eb362dd417352db71668fc91f0b": {
+            "text": "Seite ausschlie\u00dfen"
+        },
+        "f7f5fb232faaa74e65bd905395e6c8a8": {
+            "text": "Diese Seite nicht in die Sitemap aufnehmen"
+        },
+        "8e9396b72ae23a225dc94d7ea909c97a": {
+            "text": "Kreuzen Sie das K\u00e4stchen an, um diese Seite nicht in die Sitemap aufzunehmen. Eventuelle Unterseiten werden hier nicht ber\u00fccksichtigt."
+        },
+        "8c37eeaca7e3ddcb6068b287bc22271b": {
+            "text": "Unterseiten ausschlie\u00dfen"
+        },
+        "682c053c9697899e3cf3327de1522538": {
+            "text": "Unterseiten dieser Seite nicht in die Sitemap aufnehmen"
+        },
+        "4cc997ac7c0318ad14fb2a07b5d57e38": {
+            "text": "Kreuzen Sie das K\u00e4stchen an, um die Unterseiten dieser Seite nicht in die Sitemap aufzunehmen. Die Seite selbst wird hier nicht ber\u00fccksichtigt."
+        }
+    }
+}

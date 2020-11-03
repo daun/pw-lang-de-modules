@@ -1,0 +1,9 @@
+{
+    "file": "site\/modules\/MarkupSitemap\/src\/Concerns\/ProcessesTabs.php",
+    "textdomain": "site--modules--markupsitemap--src--concerns--processestabs-php",
+    "translations": {
+        "6d14d36b58c922d899dcd59c5adb82c6": {
+            "text": "Ein Fehler ist aufgetreten. Die Sitemap-Optionen konnten nicht gespeichert werden."
+        }
+    }
+}

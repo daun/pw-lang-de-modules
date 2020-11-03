@@ -15,6 +15,7 @@ See the [instructions of the main language pack](https://github.com/jmartsch/pw-
 
 - Dashboard
 - Jumplinks
+- MarkupSitemap
 - PageListerPro
 - PageLister Actions
   - Delete
