@@ -1,0 +1,72 @@
+{
+    "file": "site\/modules\/FieldtypeOpeningHours\/InputfieldOpeningHours.module",
+    "textdomain": "site--modules--fieldtypeopeninghours--inputfieldopeninghours-module",
+    "translations": {
+        "bc51c8dc11ac2c65ffe7a330587a0194": {
+            "text": "Wochentag"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Status"
+        },
+        "80a0c205cd57b22fca7f174253870300": {
+            "text": "\u00d6ffnungszeiten"
+        },
+        "5da618e8e4b89c66fe86e32cdafde142": {
+            "text": "Von"
+        },
+        "e12167aa0a7698e6ebc92b4ce3909b53": {
+            "text": "Bis"
+        },
+        "ec211f7c20af43e742bf2570c3cb84f9": {
+            "text": "Neu"
+        },
+        "1063e38cb53d94d386f21227fcd84717": {
+            "text": "Entfernen"
+        },
+        "faba89c31e63b14b609e6998d4158bfc": {
+            "text": "Unvollst\u00e4ndige Zeit mit nur einer Start- oder Endzeit wurde entfernt."
+        },
+        "c650f334d8b8717dc1da5e4c27528a2d": {
+            "text": "Am %s sind Start- und Endzeit gleich, bitte stellen Sie unterschiedliche Zeiten ein."
+        },
+        "0b7ccbde050b20d849f10fa61db68bfc": {
+            "text": "Am %s liegt die Startzeit nach der Endzeit. Wenn die Endzeit am n\u00e4chsten Tag liegt, ist das in Ordnung."
+        },
+        "501fa53d947ff2ba6ed392ae5e528212": {
+            "text": "Ein ung\u00fcltiges Zeitformat wurde entfernt."
+        },
+        "11404b07f755b1713b0269da452a11c2": {
+            "text": "Anzahl von Zeitabschnitten pro Tag"
+        },
+        "2c9657d5f8d7aba4cd7d740513e7dc1b": {
+            "text": "Bitte geben Sie die Anzahl der erlaubten Zeitabschnitte pro Tag ein."
+        },
+        "1c6e094df6e9ef0d1fd4a5c5a1b5c408": {
+            "text": "Der Wert '2' bedeutet, dass Sie 2 verschiedene Zeitabschnitte pro Tag eingeben k\u00f6nnen. Es sind bis zu 5 verschiedene Zeitabschnitte m\u00f6glich."
+        },
+        "06002dfac324f7ff7eb49a71ec5bd340": {
+            "text": "Zeitformat im Frontend"
+        },
+        "0e9709308af45f312163172e1ab67095": {
+            "text": "Bitte geben Sie das Zeitformat an, in dem die Zeiten im Frontend angezeigt werden. Verwenden Sie die Syntax von date() oder sprintf()."
+        },
+        "4fbe90c69f315499f57e4c95d5d9ade5": {
+            "text": "Ein Zeitformat von %s zeigt z. B. die Uhrzeit als 08:00 an, ein Zeitformat von %s wird als 08:00 AM wiedergegeben. Weitere Beispiele finden Sie unter %s oder %s."
+        },
+        "265a22b5c1436902fe6a2cceaccc6b4b": {
+            "text": "Kopfzeile der Zeitspalte im Backend"
+        },
+        "a70a57b5e48d563191da61d6c3db17fd": {
+            "text": "Hier k\u00f6nnen Sie die Kopfzeile der Zeitspalte anpassen (optional)."
+        },
+        "3d73e8a19eabc56142f2481e5413055f": {
+            "text": "Das k\u00f6nnen \u00d6ffnungszeiten, Kurszeiten usw. sein \u2013 je nachdem, welche Zeiten Sie eingeben m\u00f6chten."
+        },
+        "a1e37bd79000e1ced2672e7932d82a24": {
+            "text": "Es ist nur 1 Zeitabschnitt pro Tag erlaubt."
+        },
+        "0c26e646fa11c3ab39ff3dac9f9dad82": {
+            "text": "Es sind nur %s Zeitabschnitte pro Tag erlaubt."
+        }
+    }
+}

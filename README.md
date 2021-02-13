@@ -17,6 +17,7 @@ See the [instructions of the main language pack](https://github.com/jmartsch/pw-
 - Jumplinks
 - MapMarker
 - MarkupSitemap
+- OpeningHours
 - PageListerPro
 - PageLister Actions
   - Delete
