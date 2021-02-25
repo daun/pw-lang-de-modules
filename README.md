@@ -14,6 +14,8 @@ See the [instructions of the main language pack](https://github.com/jmartsch/pw-
 ## Translated modules
 
 - Dashboard
+- FormBuilder
+  - Entry management
 - Jumplinks
 - MapMarker
 - MarkupSitemap
