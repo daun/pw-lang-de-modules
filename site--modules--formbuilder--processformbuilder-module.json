@@ -1,0 +1,126 @@
+{
+    "file": "site\/modules\/FormBuilder\/ProcessFormBuilder.module",
+    "textdomain": "site--modules--formbuilder--processformbuilder-module",
+    "translations": {
+        "6450242531912981c3683cae88a32a66": {
+            "text": "Formulare"
+        },
+        "c3ffe5a9e8dd104bf471beaeefcc9a06": {
+            "text": "Bitte geben Sie einen g\u00fcltigen Lizenzschl\u00fcssel in den Modul-Einstellungen ein"
+        },
+        "b561d42071fccc598d09778d38c97366": {
+            "text": "Noch keine Formulare angelegt"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Speichern"
+        },
+        "89b60f18fa54bdb62e853b60567eb568": {
+            "text": "Formular gespeichert"
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Beispiel:"
+        },
+        "8524de963f07201e5c086830d370797f": {
+            "text": "Lade..."
+        },
+        "5c31ab108ed9a6271030237ed75cb3c1": {
+            "text": "Sie haben keinen Zugriff"
+        },
+        "b7c873319d93632b094c95edba4b042d": {
+            "text": "Unbekanntes Formular"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Kein"
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(Standard)"
+        },
+        "382b0f5185773fa0f67a8ed8056c7759": {
+            "text": "K.A."
+        },
+        "2180b681cce32c3004c2bf8ea283106f": {
+            "text": "Das Modul ist noch nicht vollst\u00e4ndig konfiguriert."
+        },
+        "9a73a6d0ab868d820c61c15441eae7d0": {
+            "text": "Modul-Konfiguration"
+        },
+        "45949de1c2ecf085d1b1c9d450214fad": {
+            "text": "Neues Formular"
+        },
+        "8ad0889e260991fdddd4730a35287dad": {
+            "text": "Klicken und ziehen, um die Feldbreite anzupassen"
+        },
+        "a2438d2b8252f514d7eb6a2bed41d7c0": {
+            "text": "Pflichtfeld wenn: %s"
+        },
+        "b651efdb98a5d6bd2b3935d0c3f4a5e2": {
+            "text": "Pflichtfeld"
+        },
+        "7131bdf0443e46147efa8a3e037df678": {
+            "text": "Formular-Name"
+        },
+        "bc14b0a9c516310fc195a778937cc0a0": {
+            "text": "Eintr\u00e4ge"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Bearbeiten"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Neu hinzuf\u00fcgen"
+        },
+        "38998ba3583a63813f0de165723a6e6d": {
+            "text": "Formular"
+        },
+        "4ff4bffdc31700dbbf63895aa33413cf": {
+            "text": "Eintr\u00e4ge"
+        },
+        "a54f9d1b02eb3772721d734bf9fabf77": {
+            "text": "Letzter Eintrag"
+        },
+        "fca33528602ccb227353d9679ff27824": {
+            "text": "Felder"
+        },
+        "a87b86e81991d9c34298c9f6a20b6d20": {
+            "text": "Einstellungen"
+        },
+        "20e1654c0eea53e3e9bce69f7004aee1": {
+            "text": "Eintr\u00e4ge"
+        },
+        "b809d187634858b88b83f42e20aa16c1": {
+            "text": "Felder"
+        },
+        "e01fad414b12e967f1757aae26275ba5": {
+            "text": "%s entfernt"
+        },
+        "1b74619be875b195d27e60c796046ade": {
+            "text": "Felder"
+        },
+        "799ef6a367b3b36deb5be25ef8e7c91a": {
+            "text": "Zugriff"
+        },
+        "54c40cf3f2cd4b97f50d5858fa0c1efc": {
+            "text": "Vorschau"
+        },
+        "58e8bcb2d28283600d7dd6e2d46ff2cb": {
+            "text": "Einbettung"
+        },
+        "a90b5efafea041e94da7fffd2bd530a3": {
+            "text": "Grundlagen"
+        },
+        "833f49865b7cff645c446f96e4c21538": {
+            "text": "Formulare"
+        },
+        "8ce07bc265e6bec0335b8d17460ff715": {
+            "text": "%d Feld"
+        },
+        "f31f5e50313e32f1b8a1d38913e26023": {
+            "text": "%d Felder"
+        },
+        "507510662ce0453c588e342406b5cb2d": {
+            "text": "%d Eintrag"
+        },
+        "49d62dc78d871d12eaf2a4c8b0efa88e": {
+            "text": "%d Eintr\u00e4ge"
+        }
+    }
+}
